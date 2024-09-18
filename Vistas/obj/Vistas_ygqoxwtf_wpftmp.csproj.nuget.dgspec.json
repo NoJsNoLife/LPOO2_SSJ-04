@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\Vistas.csproj": {}
+  },
+  "projects": {
+    "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\Vistas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\Vistas.csproj",
+        "projectName": "Vistas",
+        "projectPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\Vistas.csproj",
+        "packagesPath": "C:\\Users\\fnaya\\.nuget\\packages\\",
+        "outputPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fnaya\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

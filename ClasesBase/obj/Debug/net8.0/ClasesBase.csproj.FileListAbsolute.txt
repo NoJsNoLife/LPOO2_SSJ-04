@@ -1,0 +1,14 @@
+D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.AssemblyInfoInputs.cache
+D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.AssemblyInfo.cs
+D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.csproj.CoreCompileInputs.cache
+D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.csproj.AssemblyReference.cache
+D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\ClasesBase\bin\Debug\net8.0\ClasesBase.deps.json
+D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\ClasesBase\bin\Debug\net8.0\ClasesBase.dll
+D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\ClasesBase\bin\Debug\net8.0\ClasesBase.pdb
+D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.Recursos.resources
+D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.csproj.GenerateResource.cache
+D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.dll
+D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\refint\ClasesBase.dll
+D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.pdb
+D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ref\ClasesBase.dll

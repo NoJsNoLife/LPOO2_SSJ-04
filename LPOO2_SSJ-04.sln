@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasesBase", "ClasesBase\ClasesBase.csproj", "{BE3071A3-3175-4B6F-A4D8-DC36A7DE5FEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vistas", "Vistas\Vistas.csproj", "{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BE3071A3-3175-4B6F-A4D8-DC36A7DE5FEF} = {BE3071A3-3175-4B6F-A4D8-DC36A7DE5FEF}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE3071A3-3175-4B6F-A4D8-DC36A7DE5FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3071A3-3175-4B6F-A4D8-DC36A7DE5FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3071A3-3175-4B6F-A4D8-DC36A7DE5FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3071A3-3175-4B6F-A4D8-DC36A7DE5FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E59086ED-BDB0-40E9-9C08-8245E15DF3A9}
+	EndGlobalSection
+EndGlobal
