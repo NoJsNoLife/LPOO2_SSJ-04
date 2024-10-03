@@ -1,34 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\",
+  "WorkspaceRootPath": "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|d:\\fernando\\herramientas\\workspaces\\lpoo2\\lpoo2_ssj-04\\vistas\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|solutionrelative:vistas\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|c:\\users\\enzo meneghini\\desktop\\lpoo2_ssj-04\\vistas\\altadisciplina.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|solutionrelative:vistas\\altadisciplina.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|d:\\fernando\\herramientas\\workspaces\\lpoo2\\lpoo2_ssj-04\\vistas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|solutionrelative:vistas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|c:\\users\\enzo meneghini\\desktop\\lpoo2_ssj-04\\vistas\\abmdisciplina.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|solutionrelative:vistas\\abmdisciplina.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|d:\\fernando\\herramientas\\workspaces\\lpoo2\\lpoo2_ssj-04\\vistas\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|solutionrelative:vistas\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|c:\\users\\enzo meneghini\\desktop\\lpoo2_ssj-04\\vistas\\principal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|solutionrelative:vistas\\principal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|d:\\fernando\\herramientas\\workspaces\\lpoo2\\lpoo2_ssj-04\\vistas\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|solutionrelative:vistas\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|d:\\fernando\\herramientas\\workspaces\\lpoo2\\lpoo2_ssj-04\\vistas\\principal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|c:\\users\\enzo meneghini\\desktop\\lpoo2_ssj-04\\vistas\\principal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|solutionrelative:vistas\\principal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|d:\\fernando\\herramientas\\workspaces\\lpoo2\\lpoo2_ssj-04\\vistas\\principal.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{4FC5F88D-41A6-4EC5-B4B3-3F0DC8816B29}|Vistas\\Vistas.csproj|solutionrelative:vistas\\principal.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE3071A3-3175-4B6F-A4D8-DC36A7DE5FEF}|ClasesBase\\ClasesBase.csproj|d:\\fernando\\herramientas\\workspaces\\lpoo2\\lpoo2_ssj-04\\clasesbase\\trabajarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE3071A3-3175-4B6F-A4D8-DC36A7DE5FEF}|ClasesBase\\ClasesBase.csproj|solutionrelative:clasesbase\\trabajarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,95 +25,78 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 111,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\App.xaml.cs",
-              "RelativeDocumentMoniker": "Vistas\\App.xaml.cs",
-              "ToolTip": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\App.xaml.cs",
-              "RelativeToolTip": "Vistas\\App.xaml.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwAoAAAAFAAAAAAAAAA==",
+              "Title": "AltaDisciplina.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\Vistas\\AltaDisciplina.xaml.cs",
+              "RelativeDocumentMoniker": "Vistas\\AltaDisciplina.xaml.cs",
+              "ToolTip": "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\Vistas\\AltaDisciplina.xaml.cs",
+              "RelativeToolTip": "Vistas\\AltaDisciplina.xaml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T17:52:45.768Z",
+              "WhenOpened": "2024-10-02T15:50:27.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\App.xaml",
-              "RelativeDocumentMoniker": "Vistas\\App.xaml",
-              "ToolTip": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\App.xaml",
-              "RelativeToolTip": "Vistas\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-18T17:52:14.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Principal.xaml",
-              "DocumentMoniker": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\Principal.xaml",
-              "RelativeDocumentMoniker": "Vistas\\Principal.xaml",
-              "ToolTip": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\Principal.xaml",
-              "RelativeToolTip": "Vistas\\Principal.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-18T17:15:21.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.xaml.cs",
-              "DocumentMoniker": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\Login.xaml.cs",
-              "RelativeDocumentMoniker": "Vistas\\Login.xaml.cs",
-              "ToolTip": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\Login.xaml.cs",
-              "RelativeToolTip": "Vistas\\Login.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA9wBYAAAAiAAAAAAAAAA==",
+              "Title": "ABMDisciplina.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\Vistas\\ABMDisciplina.xaml.cs",
+              "RelativeDocumentMoniker": "Vistas\\ABMDisciplina.xaml.cs",
+              "ToolTip": "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\Vistas\\ABMDisciplina.xaml.cs",
+              "RelativeToolTip": "Vistas\\ABMDisciplina.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T00:42:51.69Z",
+              "WhenOpened": "2024-10-02T15:25:52.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Login.xaml",
-              "DocumentMoniker": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\Login.xaml",
-              "RelativeDocumentMoniker": "Vistas\\Login.xaml",
-              "ToolTip": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\Login.xaml",
-              "RelativeToolTip": "Vistas\\Login.xaml",
+              "Title": "Principal.xaml",
+              "DocumentMoniker": "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\Vistas\\Principal.xaml",
+              "RelativeDocumentMoniker": "Vistas\\Principal.xaml",
+              "ToolTip": "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\Vistas\\Principal.xaml",
+              "RelativeToolTip": "Vistas\\Principal.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-17T00:42:52.261Z",
+              "WhenOpened": "2024-10-02T15:14:55.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TrabajarUsuario.cs",
-              "DocumentMoniker": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\TrabajarUsuario.cs",
-              "RelativeDocumentMoniker": "ClasesBase\\TrabajarUsuario.cs",
-              "ToolTip": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\TrabajarUsuario.cs",
-              "RelativeToolTip": "ClasesBase\\TrabajarUsuario.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAkwHcAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T17:21:40.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Principal.xaml.cs",
-              "DocumentMoniker": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\Principal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\Vistas\\Principal.xaml.cs",
               "RelativeDocumentMoniker": "Vistas\\Principal.xaml.cs",
-              "ToolTip": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\Principal.xaml.cs",
+              "ToolTip": "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\Vistas\\Principal.xaml.cs",
               "RelativeToolTip": "Vistas\\Principal.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwC4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T17:37:00.274Z",
+              "WhenOpened": "2024-10-02T15:26:46.26Z",
               "EditorCaption": ""
             }
           ]

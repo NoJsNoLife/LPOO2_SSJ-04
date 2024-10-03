@@ -61,7 +61,7 @@ namespace ClasesBase {
         }
         
         /// <summary>
-        ///   Busca una cadena traducida similar a Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\comdep.mdf;Integrated Security=True;Connect Timeout=30.
+        ///   Busca una cadena traducida similar a Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=&quot;C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\comdep.mdf&quot;;Integrated Security=True;Connect Timeout=30.
         /// </summary>
         internal static string DB_CONN {
             get {

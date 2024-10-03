@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj": {}
+    "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj": {}
   },
   "projects": {
-    "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj": {
+    "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj",
+        "projectUniqueName": "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj",
         "projectName": "ClasesBase",
-        "projectPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj",
-        "packagesPath": "C:\\Users\\fnaya\\.nuget\\packages\\",
-        "outputPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\obj\\",
+        "projectPath": "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj",
+        "packagesPath": "C:\\Users\\Enzo Meneghini\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\ClasesBase\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\fnaya\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Enzo Meneghini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

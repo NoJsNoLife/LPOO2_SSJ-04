@@ -12,3 +12,48 @@ D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8
 D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\refint\ClasesBase.dll
 D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.pdb
 D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ref\ClasesBase.dll
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\ClasesBase\bin\Debug\net8.0\ClasesBase.deps.json
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\ClasesBase\bin\Debug\net8.0\ClasesBase.dll
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\ClasesBase\bin\Debug\net8.0\ClasesBase.pdb
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.csproj.AssemblyReference.cache
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.Recursos.resources
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.csproj.GenerateResource.cache
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.AssemblyInfoInputs.cache
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.AssemblyInfo.cs
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.csproj.CoreCompileInputs.cache
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.sourcelink.json
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.dll
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\refint\ClasesBase.dll
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.pdb
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ref\ClasesBase.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\ClasesBase\bin\Debug\net8.0\ClasesBase.deps.json
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\ClasesBase\bin\Debug\net8.0\ClasesBase.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\ClasesBase\bin\Debug\net8.0\ClasesBase.pdb
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.csproj.AssemblyReference.cache
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.Recursos.resources
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.csproj.GenerateResource.cache
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.AssemblyInfoInputs.cache
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.AssemblyInfo.cs
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.csproj.CoreCompileInputs.cache
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.sourcelink.json
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\refint\ClasesBase.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.pdb
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ref\ClasesBase.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\ClasesBase\bin\Debug\net8.0\ClasesBase.deps.json
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\ClasesBase\bin\Debug\net8.0\ClasesBase.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\ClasesBase\bin\Debug\net8.0\ClasesBase.pdb
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.csproj.AssemblyReference.cache
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.Recursos.resources
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.csproj.GenerateResource.cache
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.AssemblyInfoInputs.cache
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.AssemblyInfo.cs
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.csproj.CoreCompileInputs.cache
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.sourcelink.json
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\refint\ClasesBase.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ClasesBase.pdb
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\ClasesBase\obj\Debug\net8.0\ref\ClasesBase.dll

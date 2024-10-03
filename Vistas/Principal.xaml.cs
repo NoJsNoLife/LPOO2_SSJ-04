@@ -25,5 +25,33 @@ namespace Vistas
             InitializeComponent();
             this.VentanaAnterior = ventanaAnterior;
         }
+
+        private void btnCategorias_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            ABMCategoria abmCategoria = new ABMCategoria(this);
+            abmCategoria.Show();
+        }
+
+        private void btnDisciplinas_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            ABMDisciplina abMDisciplina = new ABMDisciplina(this);
+            abMDisciplina.Show();
+
+        }
+
+        private void btnAtletas_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            ABMAtleta abmAtleta = new ABMAtleta(this);
+            abmAtleta.Show();
+        }
+
+        private void btnAtras_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+            VentanaAnterior.Show();
+        }
     }
 }

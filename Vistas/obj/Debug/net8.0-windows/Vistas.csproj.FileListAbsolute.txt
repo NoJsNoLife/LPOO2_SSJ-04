@@ -58,3 +58,231 @@ D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-w
 D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.csproj.Up2Date
 D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Login.g.cs
 D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Login.baml
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.csproj.AssemblyReference.cache
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ABMAtleta.g.cs
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ABMCategoria.g.cs
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ABMDisciplina.g.cs
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\AltaAtleta.g.cs
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\AltaCategoria.g.cs
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\AltaDisciplina.g.cs
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Login.g.cs
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Principal.g.cs
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas_MarkupCompile.cache
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas_MarkupCompile.lref
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.dll
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\refint\Vistas.dll
+C:\Users\josef\Source\Repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.pdb
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Vistas.exe
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Vistas.deps.json
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Vistas.runtimeconfig.json
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Vistas.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Vistas.pdb
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\ClasesBase.dll
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\ClasesBase.pdb
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ABMAtleta.baml
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ABMCategoria.baml
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ABMDisciplina.baml
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\AltaAtleta.baml
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\AltaCategoria.baml
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\AltaDisciplina.baml
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Login.baml
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Principal.baml
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.g.resources
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.AssemblyInfoInputs.cache
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.AssemblyInfo.cs
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.sourcelink.json
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.csproj.Up2Date
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.genruntimeconfig.cache
+C:\Users\josef\source\repos\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ref\Vistas.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Vistas.exe
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Vistas.deps.json
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Vistas.runtimeconfig.json
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Vistas.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Vistas.pdb
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\ClasesBase.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\ClasesBase.pdb
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.csproj.AssemblyReference.cache
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ABMAtleta.g.cs
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ABMCategoria.g.cs
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ABMDisciplina.g.cs
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\AltaAtleta.g.cs
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\AltaCategoria.g.cs
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\AltaDisciplina.g.cs
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Login.g.cs
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Principal.g.cs
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\App.g.cs
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas_MarkupCompile.cache
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas_MarkupCompile.lref
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ABMAtleta.baml
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ABMCategoria.baml
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ABMDisciplina.baml
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\AltaAtleta.baml
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\AltaCategoria.baml
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\AltaDisciplina.baml
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Login.baml
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Principal.baml
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.g.resources
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.AssemblyInfoInputs.cache
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.AssemblyInfo.cs
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.csproj.CoreCompileInputs.cache
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.sourcelink.json
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.csproj.Up2Date
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\refint\Vistas.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.pdb
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.genruntimeconfig.cache
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ref\Vistas.dll
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Resources\Styles.baml
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\App.baml
+E:\Facultad\APU\3er año\LPOO II\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Resources\Templates.baml
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Vistas.exe
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Vistas.deps.json
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Vistas.runtimeconfig.json
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Vistas.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Vistas.pdb
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\ClasesBase.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\bin\Debug\net8.0-windows\ClasesBase.pdb
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.csproj.AssemblyReference.cache
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Resources\Styles.baml
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Resources\Templates.baml
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ABMAtleta.g.cs
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ABMCategoria.g.cs
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ABMDisciplina.g.cs
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\AltaAtleta.g.cs
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\AltaCategoria.g.cs
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\AltaDisciplina.g.cs
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Login.g.cs
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Principal.g.cs
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas_MarkupCompile.cache
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas_MarkupCompile.lref
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\App.baml
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ABMAtleta.baml
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ABMCategoria.baml
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ABMDisciplina.baml
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\AltaAtleta.baml
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\AltaCategoria.baml
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\AltaDisciplina.baml
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Login.baml
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Principal.baml
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.g.resources
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.AssemblyInfoInputs.cache
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.AssemblyInfo.cs
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.sourcelink.json
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.csproj.Up2Date
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\refint\Vistas.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.pdb
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\Vistas.genruntimeconfig.cache
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\ref\Vistas.dll
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\LoginControl.g.cs
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\LoginControl.baml

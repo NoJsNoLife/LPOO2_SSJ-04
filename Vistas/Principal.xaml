@@ -5,9 +5,18 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Vistas"
         mc:Ignorable="d"
-        Title="Principal" Height="450" Width="800">
-    <Grid>
-        <TextBox HorizontalAlignment="Left" Height="144" Margin="281,95,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="289"/>
+        Title="Principal" Height="450" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" 
+        >
 
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Button Style="{StaticResource PrimaryButton}" x:Name="btnCategorias" Content="Categorias" HorizontalAlignment="Left" Margin="217,186,0,0" VerticalAlignment="Top" Height="50" Width="104" Click="btnCategorias_Click"/>
+        <Button Style="{StaticResource PrimaryButton}" x:Name="btnDisciplinas" Content="Disciplinas" HorizontalAlignment="Left" Margin="345,186,0,0" VerticalAlignment="Top" Height="50" Width="104" Click="btnDisciplinas_Click"/>
+        <Button Style="{StaticResource PrimaryButton}"  x:Name="btnAtletas" Content="Atletas" HorizontalAlignment="Left" Margin="467,186,0,0" VerticalAlignment="Top" Height="50" Width="104" Click="btnAtletas_Click" RenderTransformOrigin="1.712,0.606"/>
+        <Button Style="{StaticResource DangerButton}" x:Name="btnAtras" Content="Atrás" HorizontalAlignment="Left" Margin="644,10,0,0" VerticalAlignment="Top" Height="32" Width="146" Background="IndianRed" RenderTransformOrigin="0.928,0.758" Click="btnAtras_Click"/>
     </Grid>
 </Window>

@@ -1,0 +1,13 @@
+﻿<Window x:Class="Vistas.ABMCategoria"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vistas"
+        mc:Ignorable="d"
+        Title="ABMCategoria" Height="450" Width="800" WindowStyle="ToolWindow" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button Style="{StaticResource PrimaryButton}" x:Name="btnAgregarCategoria" Content="Agregar Categoria" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="40" Width="153" Click="btnAgregarCategoria_Click"/>
+        <Button Style="{StaticResource DangerButton}" x:Name="btnAtras" Content="Atrás" HorizontalAlignment="Left" Margin="600,10,0,0" VerticalAlignment="Top" Height="40" Width="146" RenderTransformOrigin="0.928,0.758" Click="btnAtras_Click" />
+    </Grid>
+</Window>

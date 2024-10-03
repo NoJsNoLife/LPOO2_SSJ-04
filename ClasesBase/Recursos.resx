@@ -118,6 +118,6 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DB_CONN" xml:space="preserve">
-    <value>Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\comdep.mdf;Integrated Security=True;Connect Timeout=30</value>
+    <value>Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename="C:\Users\Enzo Meneghini\Desktop\LPOO2_SSJ-04\comdep.mdf";Integrated Security=True;Connect Timeout=30</value>
   </data>
 </root>

@@ -1705,32 +1705,39 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fnaya\\.nuget\\packages\\": {}
+    "C:\\Users\\Enzo Meneghini\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\Vistas.csproj",
+      "projectUniqueName": "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\Vistas\\Vistas.csproj",
       "projectName": "Vistas",
-      "projectPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\Vistas.csproj",
-      "packagesPath": "C:\\Users\\fnaya\\.nuget\\packages\\",
-      "outputPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\obj\\",
+      "projectPath": "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\Vistas\\Vistas.csproj",
+      "packagesPath": "C:\\Users\\Enzo Meneghini\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\Vistas\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\fnaya\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Enzo Meneghini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0-windows"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj": {
-              "projectPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj"
+            "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj": {
+              "projectPath": "C:\\Users\\Enzo Meneghini\\Desktop\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj"
             }
           }
         }
@@ -1768,7 +1775,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
