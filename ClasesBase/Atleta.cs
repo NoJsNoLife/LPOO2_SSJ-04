@@ -1,111 +1,71 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+using System.ComponentModel;
 
 namespace ClasesBase
 {
-    public class Atleta
+    public class Atleta : IDataErrorInfo
     {
-        public Atleta()
-        {
-            throw new System.NotImplementedException();
-        }
+        public int Atl_ID { get; set; }
 
-        public int Atl_ID
+        public string Atl_DNI { get; set; }
+
+        public string Atl_Apellido { get; set; }
+
+        public string Atl_Nombre { get; set; }
+
+        public string Atl_Nacionalidad { get; set; }
+
+        public string Atl_Entrenador { get; set; }
+
+        public char Atl_Genero { get; set; }
+
+        public double Atl_Altura { get; set; }
+
+        public double Atl_Peso { get; set; }
+
+        public DateTime Atl_FechaNac { get; set; }
+
+        public string Atl_Direccion { get; set; }
+
+        public string Atl_email { get; set; }
+
+        public string this[string columnName]
         {
-            get => default;
-            set
+            get
             {
+                string error = null;
+                switch (columnName)
+                {
+                    case nameof(Atl_DNI):
+                        if (string.IsNullOrWhiteSpace(Atl_DNI))
+                            error = "El DNI es obligatorio.";
+                        break;
+                    case nameof(Atl_Apellido):
+                        if (string.IsNullOrWhiteSpace(Atl_Apellido))
+                            error = "El apellido es obligatorio.";
+                        break;
+                    case nameof(Atl_Nombre):
+                        if (string.IsNullOrWhiteSpace(Atl_Nombre))
+                            error = "El nombre es obligatorio.";
+                        break;
+                    case nameof(Atl_Altura):
+                        if (double.IsNaN(Atl_Altura))
+                            error = "La altura es obligatoria";
+                          else  if (Atl_Altura <= 0)
+                            error = "La altura debe ser mayor que cero.";
+                        break;
+                    case nameof(Atl_Peso):
+                         if (double.IsNaN(Atl_Peso))
+                            error = "El peso es obligatorio";
+                        else if (Atl_Peso <= 0)
+                            error = "El peso debe ser mayor que cero.";
+                        break;
+                }
+                return error;
             }
         }
 
-        public string Atl_DNI
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public string Atl_Apellido
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public string Atl_Nombre
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public string Atl_Nacionalidad
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public string Atl_Entrenador
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public char Atl_Genero
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public double Atl_Altura
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public double Atl_Peso
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public System.DateTime Atl_FechaNac
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public string Atl_Dirección
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public string Atl_email
-        {
-            get => default;
-            set
-            {
-            }
-        }
+        public string Error => null;
     }
 }

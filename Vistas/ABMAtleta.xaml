@@ -1,0 +1,18 @@
+﻿<Window x:Class="Vistas.ABMAtleta"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ABMAtleta" Height="492" Width="1004" WindowStyle="ToolWindow" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Margin="10,10,10,10">
+        <DataGrid x:Name="dataGridAtletas" Margin="99,158,74,57" />
+
+        <Label Content="Ingrese ID:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="98,56,0,0" Width="115" Height="53"/>
+        <TextBox x:Name="txtAtletaID" HorizontalAlignment="Left" Margin="219,56,0,347" Width="488"/>
+
+        <Button Style="{StaticResource SecondaryButton}" x:Name="btnBuscarAtleta" Content="Buscar Atleta" HorizontalAlignment="Left" Margin="712,56,0,347" Click="btnBuscarAtleta_Click" Width="198"/>
+        <Button Style="{StaticResource PrimaryButton}" x:Name="btnModificarAtleta" Content="Modificar Atleta" HorizontalAlignment="Left" Margin="764,404,0,0" VerticalAlignment="Top" Height="30" Width="146" Click="btnModificarAtleta_Click"/>
+        <Button Style="{StaticResource PrimaryButton}" x:Name="btnAgregarAtleta" Content="Agregar Atleta" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="30" Width="146" Click="btnAgregarAtleta_Click"/>
+        <Button  Style="{StaticResource DangerButton}" x:Name="btnAtras" Content="Atrás" HorizontalAlignment="Left" Margin="182,8,0,0" VerticalAlignment="Top" Height="34" Width="146" Background="IndianRed" Click="btnAtras_Click"/>
+        <Label Content="Debe ingresar un ID en el buscador para modificar" HorizontalAlignment="Left" Margin="472,406,0,0" VerticalAlignment="Top"/>
+        <Label Content="Busque por ID y visualice los datos en la tabla" HorizontalAlignment="Left" Margin="99,127,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "id8lXsYsyTU=",
+  "dgSpecHash": "10bTMHeXEY8=",
   "success": true,
-  "projectFilePath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj",
+  "projectFilePath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\TP4\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fnaya\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\fnaya\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

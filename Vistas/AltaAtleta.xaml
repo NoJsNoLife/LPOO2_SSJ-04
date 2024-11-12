@@ -1,0 +1,121 @@
+﻿<Window x:Class="Vistas.AltaAtleta"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:svc="clr-namespace:ClasesBase;assembly=ClasesBase"
+        mc:Ignorable="d"
+        Title="Alta Atleta" Height="532" Width="700" WindowStyle="ToolWindow" ResizeMode="NoResize" ShowInTaskbar="False" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <ObjectDataProvider
+            x:Key="DATA_ATLETA"
+            ObjectType="{x:Type svc:TrabajarAtleta}"
+            MethodName="traer_atleta">
+        </ObjectDataProvider>
+        <ControlTemplate x:Key="TextBoxErrorTemplate">
+            <DockPanel>
+                <Ellipse DockPanel.Dock="Right" Margin="2,0" Width="10" Height="10">
+                    <Ellipse.Fill>
+                        <LinearGradientBrush>
+                            <GradientStop Color="#11FF1111" Offset="0"/>
+                            <GradientStop Color="#ffff0000" Offset="0"/>
+                        </LinearGradientBrush>
+                    </Ellipse.Fill>
+                </Ellipse>
+            </DockPanel>
+        </ControlTemplate>
+        <Style x:Key="EstiloError" TargetType="TextBox">
+            <Setter Property="Margin" Value="4,4,10,4"/>
+            <Setter Property="Validation.ErrorTemplate" Value="{StaticResource TextBoxErrorTemplate}" />
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="True">
+                    <Setter Property="ToolTip">
+                        <Setter.Value>
+                            <Binding Path="(Validation.Errors)[0].ErrorContent" RelativeSource="{x:Static RelativeSource.Self}"/>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid Background="#FFD9D0D0" Height="522" VerticalAlignment="Top">
+        <Label Content="Ingrese DNI" HorizontalAlignment="Left" Margin="32,20,0,0" VerticalAlignment="Top"/>
+        <TextBox DataContext="{StaticResource DATA_ATLETA}" Style="{StaticResource EstiloError}" x:Name="txtDNI" HorizontalAlignment="Left" Margin="259,20,0,0" VerticalAlignment="Top" Width="390" Height="26">
+            <TextBox.Text>
+                <Binding Path="Atl_DNI" UpdateSourceTrigger="PropertyChanged" ValidatesOnExceptions="true" ValidatesOnDataErrors="true"/>
+            </TextBox.Text>
+        </TextBox>
+
+        <Label Content="Ingrese Apellido" HorizontalAlignment="Left" Margin="32,60,0,0" VerticalAlignment="Top"/>
+        <TextBox DataContext="{StaticResource DATA_ATLETA}" Style="{StaticResource EstiloError}" x:Name="txtApellido" HorizontalAlignment="Left" Margin="259,60,0,0" VerticalAlignment="Top" Width="390" Height="26">
+            <TextBox.Text>
+                <Binding Path="Atl_Apellido" UpdateSourceTrigger="PropertyChanged" ValidatesOnExceptions="true" ValidatesOnDataErrors="true"/>
+            </TextBox.Text>
+        </TextBox>
+
+        <Label Content="Ingrese Nombre" HorizontalAlignment="Left" Margin="32,100,0,0" VerticalAlignment="Top"/>
+        <TextBox DataContext="{StaticResource DATA_ATLETA}" Style="{StaticResource EstiloError}" x:Name="txtNombre" HorizontalAlignment="Left" Margin="259,100,0,0" VerticalAlignment="Top" Width="390" Height="26">
+            <TextBox.Text>
+                <Binding Path="Atl_Nombre" UpdateSourceTrigger="PropertyChanged" ValidatesOnExceptions="true" ValidatesOnDataErrors="true"/>
+            </TextBox.Text>
+        </TextBox>
+
+        <Label Content="Ingrese Nacionalidad" HorizontalAlignment="Left" Margin="32,140,0,0" VerticalAlignment="Top"/>
+        <TextBox DataContext="{StaticResource DATA_ATLETA}" Style="{StaticResource EstiloError}" x:Name="txtNacionalidad" HorizontalAlignment="Left" Margin="259,140,0,0" VerticalAlignment="Top" Width="390" Height="26">
+            <TextBox.Text>
+                <Binding Path="Atl_Nacionalidad" UpdateSourceTrigger="PropertyChanged" ValidatesOnExceptions="true" ValidatesOnDataErrors="true"/>
+            </TextBox.Text>
+        </TextBox>
+
+        <Label Content="Ingrese Entrenador" HorizontalAlignment="Left" Margin="32,180,0,0" VerticalAlignment="Top"/>
+        <TextBox DataContext="{StaticResource DATA_ATLETA}" Style="{StaticResource EstiloError}" x:Name="txtEntrenador" HorizontalAlignment="Left" Margin="259,180,0,0" VerticalAlignment="Top" Width="390" Height="26">
+            <TextBox.Text>
+                <Binding Path="Atl_Entrenador" UpdateSourceTrigger="PropertyChanged" ValidatesOnExceptions="true" ValidatesOnDataErrors="true"/>
+            </TextBox.Text>
+        </TextBox>
+
+        <Label Content="Ingrese Género" HorizontalAlignment="Left" Margin="32,220,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rbtMasculino" Content="Masculino" HorizontalAlignment="Left" Margin="259,220,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rbtFemenino" Content="Femenino" HorizontalAlignment="Left" Margin="356,220,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rbtNoBinario" Content="No Binario" HorizontalAlignment="Left" Margin="445,220,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rbtPrefieroNoDecirlo" Content="Prefiero no decirlo" HorizontalAlignment="Left" Margin="532,220,0,0" VerticalAlignment="Top"/>
+
+        <Label Content="Ingrese Altura (cm)" HorizontalAlignment="Left" Margin="32,260,0,0" VerticalAlignment="Top"/>
+        <TextBox DataContext="{StaticResource DATA_ATLETA}" Style="{StaticResource EstiloError}" x:Name="txtAltura" HorizontalAlignment="Left" Margin="259,260,0,0" VerticalAlignment="Top" Width="390" Height="26">
+            <TextBox.Text>
+                <Binding Path="Atl_Altura" UpdateSourceTrigger="PropertyChanged" ValidatesOnExceptions="true" ValidatesOnDataErrors="true"/>
+            </TextBox.Text>
+        </TextBox>
+
+        <Label Content="Ingrese Peso (kg)" HorizontalAlignment="Left" Margin="32,300,0,0" VerticalAlignment="Top"/>
+        <TextBox DataContext="{StaticResource DATA_ATLETA}" Style="{StaticResource EstiloError}" x:Name="txtPeso" HorizontalAlignment="Left" Margin="259,300,0,0" VerticalAlignment="Top" Width="390" Height="26">
+            <TextBox.Text>
+                <Binding Path="Atl_Peso" UpdateSourceTrigger="PropertyChanged" ValidatesOnExceptions="true" ValidatesOnDataErrors="true"/>
+            </TextBox.Text>
+        </TextBox>
+
+        <Label Content="Ingrese Fecha de Nacimiento" HorizontalAlignment="Left" Margin="32,340,0,0" VerticalAlignment="Top"/>
+        <DatePicker x:Name="dpFechaNac" HorizontalAlignment="Left" Margin="259,340,0,0" VerticalAlignment="Top" Width="390">
+            <DatePicker.SelectedDate>
+                <Binding Path="Atl_FechaNac" UpdateSourceTrigger="PropertyChanged" ValidatesOnExceptions="true" ValidatesOnDataErrors="true"/>
+            </DatePicker.SelectedDate>
+        </DatePicker>
+
+        <Label Content="Ingrese Dirección" HorizontalAlignment="Left" Margin="32,380,0,0" VerticalAlignment="Top"/>
+        <TextBox DataContext="{StaticResource DATA_ATLETA}" Style="{StaticResource EstiloError}" x:Name="txtDireccion" HorizontalAlignment="Left" Margin="259,380,0,0" VerticalAlignment="Top" Width="390" Height="26">
+            <TextBox.Text>
+                <Binding Path="Atl_Direccion" UpdateSourceTrigger="PropertyChanged" ValidatesOnExceptions="true" ValidatesOnDataErrors="true"/>
+            </TextBox.Text>
+        </TextBox>
+
+        <Label Content="Ingrese Email" HorizontalAlignment="Left" Margin="32,420,0,0" VerticalAlignment="Top"/>
+        <TextBox DataContext="{StaticResource DATA_ATLETA}" Style="{StaticResource EstiloError}" x:Name="txtEmail" HorizontalAlignment="Left" Margin="259,420,0,0" VerticalAlignment="Top" Width="390" Height="26">
+            <TextBox.Text>
+                <Binding Path="Atl_email" UpdateSourceTrigger="PropertyChanged" ValidatesOnExceptions="true" ValidatesOnDataErrors="true"/>
+            </TextBox.Text>
+        </TextBox>
+        <Button Style="{StaticResource PrimaryButton}" x:Name="btnCargarDatos" Content="Agregar" HorizontalAlignment="Left" Margin="464,460,0,0" VerticalAlignment="Top" Width="75" Click="btnCargarDatos_Click"/>
+        <Button Style="{StaticResource DangerButton}" x:Name="btnCancelar" Content="Cancelar" HorizontalAlignment="Left" Margin="554,460,0,0" VerticalAlignment="Top" Width="75" Click="btnCancelar_Click"/>
+        <Button Style="{StaticResource SecondaryButton}" x:Name="btnAtras" Content="Atras" HorizontalAlignment="Left" Margin="32,465,0,0" VerticalAlignment="Top" Width="75" Click="btnAtras_Click"/>
+    </Grid>
+</Window>

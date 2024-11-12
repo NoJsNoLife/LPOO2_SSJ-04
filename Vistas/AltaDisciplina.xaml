@@ -1,0 +1,19 @@
+﻿<Window x:Class="Vistas.AltaDisciplina"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vistas"
+        mc:Ignorable="d"
+        Title="AltaDisciplina" Height="250" Width="650" WindowStyle="ToolWindow" ResizeMode="NoResize" ShowInTaskbar="False" WindowStartupLocation="CenterScreen">
+    <Grid  Background="#FFD9D0D0">
+        <Label Content="Ingrese nombre de la disciplina" HorizontalAlignment="Left" Margin="32,37,0,0" VerticalAlignment="Top"/>
+        <TextBox Style="{StaticResource FormControl}" x:Name="txtNombreDisciplina" HorizontalAlignment="Left" Margin="259,37,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="337" Height="26"/>
+        <Label Content="Ingrese descripción de la disciplina" HorizontalAlignment="Left" Margin="32,72,0,0" VerticalAlignment="Top"/>
+        <TextBox Style="{StaticResource FormControl}" x:Name="txtDescripcionDisciplina" HorizontalAlignment="Left" Margin="259,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="337" Height="84"/>
+
+        <Button Template="{StaticResource OutlinePrimaryButtonTemplate}" x:Name="btnCargarDatosDisciplina" Content="Agregar" HorizontalAlignment="Left" Margin="417,167,0,0" VerticalAlignment="Top" Width="79" Click="btnCargarDatosDisciplina_Click" Height="31"/>
+        <Button Template="{StaticResource OutlineDangerButtonTemplate}" Content="Cancelar" HorizontalAlignment="Left" Margin="517,167,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.014,0.408" Width="79" Click="Button_Click" Height="31"/>
+        <Button Template="{StaticResource OutlineSecondaryButtonTemplate}" x:Name="btnAtras" Content="Atrás" HorizontalAlignment="Left" Margin="46,167,0,0" VerticalAlignment="Top" Width="75" Click="btnAtras_Click" Height="31"/>
+    </Grid>
+</Window>

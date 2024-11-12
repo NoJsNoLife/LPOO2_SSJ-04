@@ -1,0 +1,89 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- ControlTemplate para el botón Outline Primary -->
+    <ControlTemplate x:Key="OutlinePrimaryButtonTemplate" TargetType="Button">
+        <Border x:Name="border" BorderBrush="#007bff" BorderThickness="2" Background="Transparent">
+            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter TargetName="border" Property="Background" Value="#007bff" />
+                <Setter Property="Foreground" Value="White"/>
+            </Trigger>
+            <Trigger Property="IsPressed" Value="True">
+                <Setter TargetName="border" Property="Background" Value="#0056b3"/>
+                <Setter Property="Foreground" Value="White"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <!-- ControlTemplate para el botón Outline Secondary -->
+    <ControlTemplate x:Key="OutlineSecondaryButtonTemplate" TargetType="Button">
+        <Border x:Name="border" BorderBrush="#6c757d" BorderThickness="2" Background="Transparent">
+            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter TargetName="border" Property="Background" Value="#6c757d"/>
+                <Setter Property="Foreground" Value="White"/>
+            </Trigger>
+            <Trigger Property="IsPressed" Value="True">
+                <Setter TargetName="border" Property="Background" Value="#5a6268"/>
+                <Setter Property="Foreground" Value="White"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <!-- ControlTemplate para el botón Outline Success -->
+    <ControlTemplate x:Key="OutlineSuccessButtonTemplate" TargetType="Button">
+        <Border x:Name="border" BorderBrush="#28a745" BorderThickness="2" Background="Transparent">
+            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter TargetName="border" Property="Background" Value="#28a745"/>
+                <Setter Property="Foreground" Value="White"/>
+            </Trigger>
+            <Trigger Property="IsPressed" Value="True">
+                <Setter TargetName="border" Property="Background" Value="#218838"/>
+                <Setter Property="Foreground" Value="White"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <!-- ControlTemplate para el botón Outline Danger -->
+    <ControlTemplate x:Key="OutlineDangerButtonTemplate" TargetType="Button">
+        <Border x:Name="border" BorderBrush="#dc3545" BorderThickness="2" Background="Transparent">
+            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter TargetName="border" Property="Background" Value="#dc3545"/>
+                <Setter Property="Foreground" Value="White"/>
+            </Trigger>
+            <Trigger Property="IsPressed" Value="True">
+                <Setter TargetName="border" Property="Background" Value="#c82333"/>
+                <Setter Property="Foreground" Value="White"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <!-- ControlTemplate para el botón Outline Warning -->
+    <ControlTemplate x:Key="OutlineWarningButtonTemplate" TargetType="Button">
+        <Border x:Name="border" BorderBrush="#ffc107" BorderThickness="2" Background="Transparent">
+            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter TargetName="border" Property="Background" Value="#ffc107"/>
+                <Setter Property="Foreground" Value="White"/>
+            </Trigger>
+            <Trigger Property="IsPressed" Value="True">
+                <Setter TargetName="border" Property="Background" Value="#e0a800"/>
+                <Setter Property="Foreground" Value="White"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+</ResourceDictionary>

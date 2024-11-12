@@ -1,15 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+using System.ComponentModel;
 
 namespace ClasesBase
 {
-    public class Usuario
+    public class Usuario : INotifyPropertyChanged
     {
-        public Usuario()
-        {
-        }
+        public Usuario() { }
 
         public Usuario(int usu_ID, string usu_NombreUsuario, string usu_Contraseña, string usu_ApellidoNombre, int rol_Codigo)
         {
@@ -20,44 +16,83 @@ namespace ClasesBase
             Rol_Codigo = rol_Codigo;
         }
 
+        public event PropertyChangedEventHandler? PropertyChanged;
+
+        protected void OnPropertyChanged(string propertyName)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        }
+
+        private int _usu_ID;
         public int Usu_ID
         {
-            get => default;
+            get => _usu_ID;
             set
             {
+                if (_usu_ID != value)
+                {
+                    _usu_ID = value;
+                    OnPropertyChanged(nameof(Usu_ID));
+                }
             }
         }
 
+        private string _usu_NombreUsuario = string.Empty;
         public string Usu_NombreUsuario
         {
-            get => default;
+            get => _usu_NombreUsuario;
             set
             {
+                if (_usu_NombreUsuario != value)
+                {
+                    _usu_NombreUsuario = value;
+                    OnPropertyChanged(nameof(Usu_NombreUsuario));
+                }
             }
         }
 
+        private string _usu_Contraseña = string.Empty;
         public string Usu_Contraseña
         {
-            get => default;
+            get => _usu_Contraseña;
             set
             {
+                if (_usu_Contraseña != value)
+                {
+                    _usu_Contraseña = value;
+                    OnPropertyChanged(nameof(Usu_Contraseña));
+                }
             }
         }
 
+        private string _usu_ApellidoNombre = string.Empty;
         public string Usu_ApellidoNombre
         {
-            get => default;
+            get => _usu_ApellidoNombre;
             set
             {
+                if (_usu_ApellidoNombre != value)
+                {
+                    _usu_ApellidoNombre = value;
+                    OnPropertyChanged(nameof(Usu_ApellidoNombre));
+                }
             }
         }
 
+        private int _rol_Codigo;
         public int Rol_Codigo
         {
-            get => default;
+            get => _rol_Codigo;
             set
             {
+                if (_rol_Codigo != value)
+                {
+                    _rol_Codigo = value;
+                    OnPropertyChanged(nameof(Rol_Codigo));
+                }
             }
         }
+
+        public string RolNombre => RolHelper.ObtenerNombreRol(Rol_Codigo);
     }
 }

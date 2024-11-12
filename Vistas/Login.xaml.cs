@@ -21,11 +21,11 @@ namespace Vistas
         public MainWindow()
         {
             InitializeComponent();
-            txtUsuario.Text = "Auditor";
-            txtContrasena.Text = "auditor";
+            //txtUsuario.Text = "Auditor";
+            //txtContrasena.Text = "auditor";
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        /*private void Button_Click(object sender, RoutedEventArgs e)
         {
             String nombre = txtUsuario.Text;
             String contrasena = txtContrasena.Text;
@@ -33,7 +33,7 @@ namespace Vistas
             if (usuario != null)
             {
                 MessageBox.Show("Bienvenido al sistema " + usuario.Usu_NombreUsuario, "Mensaje", MessageBoxButton.OK, MessageBoxImage.Information);
-                this.Hide();
+                Window.GetWindow(this).Hide();
                 Principal principal = new (usuario.Rol_Codigo, this);
                 principal.Show();
             }
@@ -41,6 +41,6 @@ namespace Vistas
             {
                 MessageBox.Show("Usuario o contraseña incorrectos", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
             }
-        }
+        }*/
     }
 }
