@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\Vistas.csproj": {}
+    "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\TP4\\LPOO2_SSJ-04\\Vistas\\Vistas.csproj": {}
   },
   "projects": {
-    "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj": {
+    "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\TP4\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj",
+        "projectUniqueName": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\TP4\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj",
         "projectName": "ClasesBase",
-        "projectPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj",
+        "projectPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\TP4\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj",
         "packagesPath": "C:\\Users\\fnaya\\.nuget\\packages\\",
-        "outputPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\obj\\",
+        "outputPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\TP4\\LPOO2_SSJ-04\\ClasesBase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fnaya\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\Vistas.csproj": {
+    "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\TP4\\LPOO2_SSJ-04\\Vistas\\Vistas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\Vistas.csproj",
+        "projectUniqueName": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\TP4\\LPOO2_SSJ-04\\Vistas\\Vistas.csproj",
         "projectName": "Vistas",
-        "projectPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\Vistas.csproj",
+        "projectPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\TP4\\LPOO2_SSJ-04\\Vistas\\Vistas.csproj",
         "packagesPath": "C:\\Users\\fnaya\\.nuget\\packages\\",
-        "outputPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\Vistas\\obj\\",
+        "outputPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\TP4\\LPOO2_SSJ-04\\Vistas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fnaya\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -90,8 +90,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj": {
-                "projectPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj"
+              "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\TP4\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj": {
+                "projectPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\TP4\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj"
               }
             }
           }

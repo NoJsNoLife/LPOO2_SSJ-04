@@ -1692,11 +1692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj",
+      "projectUniqueName": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\TP4\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj",
       "projectName": "ClasesBase",
-      "projectPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj",
+      "projectPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\TP4\\LPOO2_SSJ-04\\ClasesBase\\ClasesBase.csproj",
       "packagesPath": "C:\\Users\\fnaya\\.nuget\\packages\\",
-      "outputPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\LPOO2_SSJ-04\\ClasesBase\\obj\\",
+      "outputPath": "D:\\Fernando\\Herramientas\\Workspaces\\LPOO2\\TP4\\LPOO2_SSJ-04\\ClasesBase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fnaya\\AppData\\Roaming\\NuGet\\NuGet.Config"

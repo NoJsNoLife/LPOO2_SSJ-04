@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using System.Collections.ObjectModel;
 using System.Data;
 using Microsoft.Data.SqlClient;
 using System.Runtime.CompilerServices;
@@ -78,6 +79,10 @@ namespace ClaseBase
         }
         public static Usuario loginUsuario(String nombreUsuario, String contrasenia)
         {
+            string solutionDirectory = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\..\..");
+            solutionDirectory = Path.GetFullPath(solutionDirectory);
+            AppDomain.CurrentDomain.SetData("DataDirectory", solutionDirectory);
+
             string conexion = DataBaseConfig.DB_CONN;
             SqlConnection cnn = new SqlConnection(conexion);
             SqlCommand cmd = new SqlCommand();
@@ -110,14 +115,14 @@ namespace ClaseBase
                 return usuario;
             }
         }
-        public static void alta_usuario(string nombreUsuario, string contrasenia, string apellidoNombre, int rolId)
+        public static int alta_usuario(string nombreUsuario, string contrasenia, string apellidoNombre, int rolId)
         {
             list_usuarios();
             string conexion = DataBaseConfig.DB_CONN;
             SqlConnection cnn = new SqlConnection(conexion);
             SqlCommand cmd = new SqlCommand();
 
-            cmd.CommandText = "INSERT INTO Usuario (Usu_NombreUsuario, Usu_Contraseña, Usu_ApellidoNombre, Rol_Codigo) VALUES (@nombreUsuario,@contrasenia,@apellidoNombre,@rolId)";
+            cmd.CommandText = "INSERT INTO Usuario (Usu_NombreUsuario, Usu_Contraseña, Usu_ApellidoNombre, Rol_Codigo) OUTPUT INSERTED.Usu_ID VALUES (@nombreUsuario, @contrasenia, @apellidoNombre, @rolId)";
             cmd.CommandType = CommandType.Text;
             cmd.Connection = cnn;
 
@@ -127,8 +132,10 @@ namespace ClaseBase
             cmd.Parameters.AddWithValue("@rolId", rolId);
 
             cnn.Open();
-            cmd.ExecuteNonQuery();
+            int newUserId = (int)cmd.ExecuteScalar();
             cnn.Close();
+
+            return newUserId;
         }
         public static void modificar_usuario(int usuarioId, string nombreUsuario, string contrasenia, string nombreYapellido, int nuevoRol)
         {
@@ -177,7 +184,6 @@ namespace ClaseBase
             cmd.CommandText += " Rol_Descripcion as 'Rol', ";
             cmd.CommandText += " Usu_ApellidoNombre as 'Apellido y Nombre', ";
             cmd.CommandText += " Usu_NombreUsuario as 'Usuario', ";
-            cmd.CommandText += " Usu_Contraseña as 'Contrasena', ";
             cmd.CommandText += " U.Rol_Codigo";
             cmd.CommandText += " FROM Usuario as U";
             cmd.CommandText += " LEFT JOIN Roles as R ON (R.Rol_Codigo=U.Rol_Codigo)";
@@ -212,6 +218,66 @@ namespace ClaseBase
             DataTable dt = new DataTable();
             da.Fill(dt);
             return dt;
+        }
+
+        public static ObservableCollection<Usuario> TraerUsuario()
+        {
+            ObservableCollection<Usuario> usuarios = new ObservableCollection<Usuario>();
+
+            string conexion = DataBaseConfig.DB_CONN;
+            SqlConnection cnn = new SqlConnection(conexion);
+
+            SqlCommand cmd = new SqlCommand("SELECT Usu_ID, Usu_NombreUsuario, Usu_Contraseña ,Usu_ApellidoNombre, Rol_Codigo FROM Usuario", cnn);
+
+            cnn.Open();
+            SqlDataReader reader = cmd.ExecuteReader();
+
+            while (reader.Read())
+            {
+                Usuario usuario = new Usuario
+                {
+                    Usu_ID = (int)reader["Usu_ID"],
+                    Usu_NombreUsuario = reader["Usu_NombreUsuario"].ToString()!,
+                    Usu_Contraseña = reader["Usu_Contraseña"].ToString()!,
+                    Usu_ApellidoNombre = reader["Usu_ApellidoNombre"].ToString()!,
+                    Rol_Codigo = (int)reader["Rol_Codigo"]
+                };
+
+                usuarios.Add(usuario);
+            }
+
+            reader.Close();
+            cnn.Close();
+
+            return usuarios;
+        }
+
+        public static ObservableCollection<Roles> TraerRoles()
+        {
+            ObservableCollection<Roles> roles = new ObservableCollection<Roles>();
+
+            string conexion = DataBaseConfig.DB_CONN;
+            SqlConnection cnn = new SqlConnection(conexion);
+            SqlCommand cmd = new SqlCommand("SELECT Rol_Codigo, Rol_Descripcion FROM Roles", cnn);
+
+            cnn.Open();
+            SqlDataReader reader = cmd.ExecuteReader();
+
+            while (reader.Read())
+            {
+                Roles rol = new Roles
+                {
+                    Rol_Codigo = (int)reader["Rol_Codigo"],
+                    Rol_Descripcion = reader["Rol_Descripcion"].ToString()!
+                };
+
+                roles.Add(rol);
+            }
+
+            reader.Close();
+            cnn.Close();
+
+            return roles;
         }
     }
 }

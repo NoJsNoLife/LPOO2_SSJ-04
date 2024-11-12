@@ -7,15 +7,90 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="ABMAtleta.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ABMCategoria.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ABMDisciplina.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ABMUsuario.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AltaAtleta.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AltaCategoria.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ABMCompetencia.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AltaDisciplina.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EstadosCompetencias.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ListadoUsuarios.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ModificarAtleta.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Principal.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="ABMAtleta.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ABMCategoria.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ABMDisciplina.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ABMUsuario.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AltaAtleta.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AltaCategoria.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ABMCompetencia.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AltaDisciplina.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EstadosCompetencias.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ListadoUsuarios.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Login.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="LoginControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ModificarAtleta.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Principal.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Styles.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

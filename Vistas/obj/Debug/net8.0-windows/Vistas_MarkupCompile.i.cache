@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\
+D:\Fernando\Herramientas\Workspaces\LPOO2\TP4\LPOO2_SSJ-04\Vistas\obj\Debug\net8.0-windows\
 Vistas
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\Fernando\Herramientas\Workspaces\LPOO2\LPOO2_SSJ-04\Vistas\App.xaml
-21610667802
+D:\Fernando\Herramientas\Workspaces\LPOO2\TP4\LPOO2_SSJ-04\Vistas\App.xaml
+16-1122983930
+11697420338
+20-448838863
+2151113648909
+ABMAtleta.xaml;ABMCategoria.xaml;ABMCompetencia.xaml;ABMDisciplina.xaml;ABMUsuario.xaml;AltaAtleta.xaml;AltaCategoria.xaml;AltaDisciplina.xaml;EstadosCompetencias.xaml;ListadoUsuarios.xaml;Login.xaml;LoginControl.xaml;ModificarAtleta.xaml;Principal.xaml;Resources\Styles.xaml;Resources\Templates.xaml;
 
-7-1179118088
-215-900473597
-Login.xaml;Principal.xaml;
-
-False
+True
 

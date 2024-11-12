@@ -9,7 +9,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="AltaCompetencia.xaml.cs~RF300c4fe.TMP" />
+    <None Remove="EstadoComp.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\ClasesBase\ClasesBase.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="EstadoComp.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>
